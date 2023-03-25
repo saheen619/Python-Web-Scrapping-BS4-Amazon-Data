@@ -1,5 +1,5 @@
 ## Web-Scrapping-BS4-Amazon-Data
-The repository contains the code on python to scrape data on Amazon.in website using the BS4 / BeautifulSoup Library on a smaller scale.    
+The repository contains the code on python to scrape data on a smaller scale from amazon.in website using the BS4/BeautifulSoup & Requests Library.   
 
 ### Agenda:
 To extract data from one source (website) through scraping, build a dataset from it and write the extracted data on to a .csv file on the local system.
